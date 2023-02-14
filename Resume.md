@@ -23,7 +23,7 @@
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息
 
-- 性别:男                     年龄:25岁                        民族:汉
+- 性别:男                     年龄:25岁                        民族:汉                经验：3年
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
