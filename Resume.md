@@ -1,23 +1,26 @@
- <center>
-     <h1>蒋衡</h1>
-     <div>
-         <span>
-             <span style='font-weight:bold'>电话</span>
-          19113140927(同微信)
-         </span>
-         ·
-         <span>
-             <span style='font-weight:bold'>邮箱</span>
-           wsjiangheng@163.com
-         </span>
-         ·
-         <span >
-         <span style='font-weight:bold'>地址</span>:四川·成都
-      </span>
-         <span>
-         </span>
-     </div>
- </center>
+<center>
+    <h1>蒋衡</h1>
+    <div>
+        <span>
+            <span style='font-weight:bold'>电话</span>
+            19113140927(同微信)
+        </span>
+        ·
+        <span>
+            <span style='font-weight:bold'>邮箱</span>
+            wsjiangheng@163.com
+        </span>
+        ·
+        <span >
+            <span style='font-weight:bold'>地址</span>:四川·成都
+            <span style='font-weight:bold'>Github</span>:<a href='https://github.com/jianghengheng/'>https://github.com/jianghengheng/</a>
+                  <span style='font-weight:bold'>个人网站</span>:<a href='http://www.jiangheng.cc/'>http://www.jiangheng.cc/</a>
+        </span>
+        <span>
+        </span>
+    </div>
+</center>
+
 
 
 
